@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5f8b4e0fc86c5b4499bdf94df721c83e
+  - enabled: 1
+    path: Assets/Scenes/CutScene1.unity
+    guid: 5a870abba8f97704da6ce304c5838dd0
+  - enabled: 1
+    path: Assets/Scenes/Poziom1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CutScene2.unity
+    guid: c942090832631e844a56561838072eb3
+  - enabled: 1
+    path: Assets/Scenes/Poziom2.unity
+    guid: e51f6243417f43147993e81f5ec85a46
+  - enabled: 1
+    path: Assets/Scenes/CutScene3.unity
+    guid: 38230d842cdab554a84489a8eedf448d
+  - enabled: 1
+    path: Assets/Scenes/boss2.unity
+    guid: 3dca28bfcba937f48bfdccb1e32efda4
+  - enabled: 1
+    path: Assets/Scenes/CutScene4.unity
+    guid: b7c55c2222f208647b2b0c3e9460475e
+  - enabled: 1
+    path: Assets/Scenes/Poziom3.unity
+    guid: cbfaa6e2837579d45a96c381ebcb7949
+  - enabled: 1
+    path: Assets/Scenes/CutScene5.unity
+    guid: d5ce8067ab43cbf449f1ce42e1f57526
+  - enabled: 1
+    path: Assets/Scenes/final_boss.unity
+    guid: 0bf3704e6ed2cf04f9eaa8b6c13af81b
+  - enabled: 1
+    path: Assets/Scenes/CutScene6.unity
+    guid: 9d0f0bef089967f4d8a82a83e9d19bda
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 8f05f88266d538c4faf8e2324492623f
+  m_configObjects: {}
